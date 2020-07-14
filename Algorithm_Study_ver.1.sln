@@ -59,9 +59,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "027. N!의 표현법", "027
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028. N!에서 0의 개수", "028. N!에서 0의 개수\028. N!에서 0의 개수.vcxproj", "{2E9D2C39-6725-4FEF-BAD1-C50E49EED619}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029. 3의 개수는", "029. 3의 개수는\029. 3의 개수는.vcxproj", "{1CEFF008-9099-40FA-8DC5-C9B56C59293B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029. 3의 개수는Small", "029. 3의 개수는\029. 3의 개수는.vcxproj", "{1CEFF008-9099-40FA-8DC5-C9B56C59293B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030. 3의 개수는", "030. 3의 개수는\030. 3의 개수는.vcxproj", "{5CE11E2E-3110-4069-98FB-3386A3F0C829}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030. 3의 개수는Large", "030. 3의 개수는\030. 3의 개수는.vcxproj", "{5CE11E2E-3110-4069-98FB-3386A3F0C829}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031. 탄화수소 질량", "031. 탄화수소 질량\031. 탄화수소 질량.vcxproj", "{F855FB68-BB9E-4D41-A25C-5B272407A96D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -311,6 +313,14 @@ Global
 		{5CE11E2E-3110-4069-98FB-3386A3F0C829}.Release|x64.Build.0 = Release|x64
 		{5CE11E2E-3110-4069-98FB-3386A3F0C829}.Release|x86.ActiveCfg = Release|Win32
 		{5CE11E2E-3110-4069-98FB-3386A3F0C829}.Release|x86.Build.0 = Release|Win32
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Debug|x64.ActiveCfg = Debug|x64
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Debug|x64.Build.0 = Debug|x64
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Debug|x86.Build.0 = Debug|Win32
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Release|x64.ActiveCfg = Release|x64
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Release|x64.Build.0 = Release|x64
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Release|x86.ActiveCfg = Release|Win32
+		{F855FB68-BB9E-4D41-A25C-5B272407A96D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
