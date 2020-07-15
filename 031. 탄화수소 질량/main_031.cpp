@@ -28,8 +28,7 @@ int main() {
 	cin >> str;
 
 	int C_count = C_H_counter(str);
-	int H_count = C_H_counter(str);
-	
+	int H_count = C_H_counter(str);	
 
 	int C_gram = 12, H_gram = 1;
 	int result = C_count * C_gram + H_count * H_gram;
