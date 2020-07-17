@@ -23,6 +23,7 @@ int main() {
 		// 자신 백업
 		int this_number{ num_list[i] };
 		int j = i - 1;
+		// ★★★for문은 -1 인덱스 까지 가서 조건에 맞지않아 멈추는 것을 기억합시다!!!!★★★
 		for (; j >= start; j--) {
 			// 큰건 오른쪽으로 밀기
 			if (this_number < num_list[j]) {
