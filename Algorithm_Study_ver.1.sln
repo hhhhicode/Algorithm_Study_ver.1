@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "036. 삽입정렬", "036. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "037. Least Recently Used(카카오 캐시 문제 변형)", "037. Least Recently Used(카카오 캐시 문제 변형)\037. Least Recently Used(카카오 캐시 문제 변형).vcxproj", "{42C94839-43F9-4DA6-B7FA-6ED52BD216E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "038. Inversion Sequence", "038. Inversion Sequence\038. Inversion Sequence.vcxproj", "{EC33A43D-146E-4525-B878-C34C209E2C87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{42C94839-43F9-4DA6-B7FA-6ED52BD216E7}.Release|x64.Build.0 = Release|x64
 		{42C94839-43F9-4DA6-B7FA-6ED52BD216E7}.Release|x86.ActiveCfg = Release|Win32
 		{42C94839-43F9-4DA6-B7FA-6ED52BD216E7}.Release|x86.Build.0 = Release|Win32
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Debug|x64.ActiveCfg = Debug|x64
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Debug|x64.Build.0 = Debug|x64
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Debug|x86.Build.0 = Debug|Win32
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Release|x64.ActiveCfg = Release|x64
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Release|x64.Build.0 = Release|x64
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Release|x86.ActiveCfg = Release|Win32
+		{EC33A43D-146E-4525-B878-C34C209E2C87}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
