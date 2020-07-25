@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "039. 두 배열 합치기",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "040. 교집합(투포인트 알고리즘)", "040. 교집합(투포인트 알고리즘)\040. 교집합(투포인트 알고리즘).vcxproj", "{FEFCBFFB-984A-4D37-9E23-8E5C66C617F5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "041. 연속된 자연수의 합", "041. 연속된 자연수의 합\041. 연속된 자연수의 합.vcxproj", "{B157B722-B8B7-4C41-BB84-5307E3388160}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{FEFCBFFB-984A-4D37-9E23-8E5C66C617F5}.Release|x64.Build.0 = Release|x64
 		{FEFCBFFB-984A-4D37-9E23-8E5C66C617F5}.Release|x86.ActiveCfg = Release|Win32
 		{FEFCBFFB-984A-4D37-9E23-8E5C66C617F5}.Release|x86.Build.0 = Release|Win32
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Debug|x64.ActiveCfg = Debug|x64
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Debug|x64.Build.0 = Debug|x64
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Debug|x86.ActiveCfg = Debug|Win32
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Debug|x86.Build.0 = Debug|Win32
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Release|x64.ActiveCfg = Release|x64
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Release|x64.Build.0 = Release|x64
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Release|x86.ActiveCfg = Release|Win32
+		{B157B722-B8B7-4C41-BB84-5307E3388160}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
