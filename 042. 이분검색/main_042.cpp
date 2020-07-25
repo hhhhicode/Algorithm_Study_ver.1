@@ -40,5 +40,6 @@ int main() {
 		}
 	}
 
+	delete[] nList;
 	return 0;
 }
