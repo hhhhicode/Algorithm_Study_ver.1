@@ -5,6 +5,8 @@
 // 모든 Adj를 pQ에 넣고 돌리면, 예를 들어 8->9를 선택하고 9->8을 중복 선택하게 된다.(한 쪽도 선택되지 않은 상황에서 weight가 작은 경우)
 // 그러므로, 노드를 하나 추가할 때 마다 Adj를 push 해줘야 한다.
 
+// vector, priority_queue, operator
+
 #include <iostream>
 #include <queue>
 #include <vector>
