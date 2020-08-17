@@ -161,6 +161,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "078. 원더랜드(Kruskal M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "079. 원더랜드(Prim MST 알고리즘 priority_queue 활용)", "079. 원더랜드(Prim MST 알고리즘 priority_queue 활용)\079. 원더랜드(Prim MST 알고리즘 priority_queue 활용).vcxproj", "{08F99D73-D0E7-4CA2-BF4C-E2A9B3620AD2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "080. 다익스트라 알고리즘", "080. 다익스트라 알고리즘\080. 다익스트라 알고리즘.vcxproj", "{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -801,6 +803,14 @@ Global
 		{08F99D73-D0E7-4CA2-BF4C-E2A9B3620AD2}.Release|x64.Build.0 = Release|x64
 		{08F99D73-D0E7-4CA2-BF4C-E2A9B3620AD2}.Release|x86.ActiveCfg = Release|Win32
 		{08F99D73-D0E7-4CA2-BF4C-E2A9B3620AD2}.Release|x86.Build.0 = Release|Win32
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Debug|x64.ActiveCfg = Debug|x64
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Debug|x64.Build.0 = Debug|x64
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Debug|x86.Build.0 = Debug|Win32
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Release|x64.ActiveCfg = Release|x64
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Release|x64.Build.0 = Release|x64
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Release|x86.ActiveCfg = Release|Win32
+		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
