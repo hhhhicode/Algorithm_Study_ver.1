@@ -163,6 +163,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "079. 원더랜드(Prim MST 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "080. 다익스트라 알고리즘", "080. 다익스트라 알고리즘\080. 다익스트라 알고리즘.vcxproj", "{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "081. 벨만-포드 알고리즘", "081. 벨만-포드 알고리즘\081. 벨만-포드 알고리즘.vcxproj", "{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -811,6 +813,14 @@ Global
 		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Release|x64.Build.0 = Release|x64
 		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Release|x86.ActiveCfg = Release|Win32
 		{2A898B06-5FC6-4F49-9DEA-79509B7DA9FE}.Release|x86.Build.0 = Release|Win32
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Debug|x64.ActiveCfg = Debug|x64
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Debug|x64.Build.0 = Debug|x64
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Debug|x86.Build.0 = Debug|Win32
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Release|x64.ActiveCfg = Release|x64
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Release|x64.Build.0 = Release|x64
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Release|x86.ActiveCfg = Release|Win32
+		{2314DCC0-DC34-4823-9C91-F4F83E94D3DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
