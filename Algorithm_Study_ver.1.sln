@@ -169,6 +169,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "082. 순열구하기(DFS De
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "083. 복면산 SEND+MORE=MONEY (MS인터뷰)", "083. 복면산 SEND+MORE=MONEY (MS인터뷰)\083. 복면산 SEND+MORE=MONEY (MS인터뷰).vcxproj", "{7C68A23D-10BE-4DC1-B6E1-519C183B6683}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "084. 휴가(삼성 SW역량평가 기출문제 DFS활용)", "084. 휴가(삼성 SW역량평가 기출문제 DFS활용)\084. 휴가(삼성 SW역량평가 기출문제 DFS활용).vcxproj", "{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -841,6 +843,14 @@ Global
 		{7C68A23D-10BE-4DC1-B6E1-519C183B6683}.Release|x64.Build.0 = Release|x64
 		{7C68A23D-10BE-4DC1-B6E1-519C183B6683}.Release|x86.ActiveCfg = Release|Win32
 		{7C68A23D-10BE-4DC1-B6E1-519C183B6683}.Release|x86.Build.0 = Release|Win32
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Debug|x64.ActiveCfg = Debug|x64
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Debug|x64.Build.0 = Debug|x64
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Debug|x86.Build.0 = Debug|Win32
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Release|x64.ActiveCfg = Release|x64
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Release|x64.Build.0 = Release|x64
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Release|x86.ActiveCfg = Release|Win32
+		{F92A2579-1BB5-49D0-B3E5-DFA8B728F4D8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
