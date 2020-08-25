@@ -181,6 +181,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "088. 미로의 최단거리
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "089. 토마토(BFS 활용)", "089. 토마토(BFS 활용)\089. 토마토(BFS 활용).vcxproj", "{43450080-6A13-4A30-BD55-5EE432073215}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "090. 라이언 킹 심바(삼성 SW역량평가 기출 BFS활용)", "090. 라이언 킹 심바(삼성 SW역량평가 기출 BFS활용)\090. 라이언 킹 심바(삼성 SW역량평가 기출 BFS활용).vcxproj", "{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -901,6 +903,14 @@ Global
 		{43450080-6A13-4A30-BD55-5EE432073215}.Release|x64.Build.0 = Release|x64
 		{43450080-6A13-4A30-BD55-5EE432073215}.Release|x86.ActiveCfg = Release|Win32
 		{43450080-6A13-4A30-BD55-5EE432073215}.Release|x86.Build.0 = Release|Win32
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Debug|x64.ActiveCfg = Debug|x64
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Debug|x64.Build.0 = Debug|x64
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Debug|x86.ActiveCfg = Debug|Win32
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Debug|x86.Build.0 = Debug|Win32
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Release|x64.ActiveCfg = Release|x64
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Release|x64.Build.0 = Release|x64
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Release|x86.ActiveCfg = Release|Win32
+		{169DEDCC-AA4B-4E42-AAC3-7936FA9A704D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
