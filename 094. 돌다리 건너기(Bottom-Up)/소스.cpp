@@ -9,7 +9,8 @@ int main()
 	int N;
 	cin >> N;
 
-	std::unique_ptr<int[]> unique_stone(new int[N + 1]());
+	//std::unique_ptr<int[]> unique_stone(new int[N + 1]());
+	auto unique_stone = std::make_unique<int[]>(N + 1);
 	
 	unique_stone[0] = 1;
 	unique_stone[1] = 2;

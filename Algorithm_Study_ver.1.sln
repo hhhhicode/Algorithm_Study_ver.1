@@ -191,6 +191,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "093. 계단오르기(Top-Do
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "094. 돌다리 건너기(Bottom-Up)", "094. 돌다리 건너기(Bottom-Up)\094. 돌다리 건너기(Bottom-Up).vcxproj", "{117329C2-FB14-46B1-99FC-3BFEB394A9D0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "095. 최대 부분 증가수열", "095. 최대 부분 증가수열\095. 최대 부분 증가수열.vcxproj", "{847082C7-761B-49DD-BDDE-08779A14650A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -951,6 +953,14 @@ Global
 		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Release|x64.Build.0 = Release|x64
 		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Release|x86.ActiveCfg = Release|Win32
 		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Release|x86.Build.0 = Release|Win32
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Debug|x64.ActiveCfg = Debug|x64
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Debug|x64.Build.0 = Debug|x64
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Debug|x86.ActiveCfg = Debug|Win32
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Debug|x86.Build.0 = Debug|Win32
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Release|x64.ActiveCfg = Release|x64
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Release|x64.Build.0 = Release|x64
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Release|x86.ActiveCfg = Release|Win32
+		{847082C7-761B-49DD-BDDE-08779A14650A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
