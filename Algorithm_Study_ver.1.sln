@@ -189,6 +189,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "092. 네트워크 선 자�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "093. 계단오르기(Top-Down 메모이제이션)", "093. 계단오르기(Top-Down 메모이제이션)\093. 계단오르기(Top-Down 메모이제이션).vcxproj", "{752B717E-9826-4589-9E9C-F04323920C37}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "094. 돌다리 건너기(Bottom-Up)", "094. 돌다리 건너기(Bottom-Up)\094. 돌다리 건너기(Bottom-Up).vcxproj", "{117329C2-FB14-46B1-99FC-3BFEB394A9D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -941,6 +943,14 @@ Global
 		{752B717E-9826-4589-9E9C-F04323920C37}.Release|x64.Build.0 = Release|x64
 		{752B717E-9826-4589-9E9C-F04323920C37}.Release|x86.ActiveCfg = Release|Win32
 		{752B717E-9826-4589-9E9C-F04323920C37}.Release|x86.Build.0 = Release|Win32
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Debug|x64.ActiveCfg = Debug|x64
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Debug|x64.Build.0 = Debug|x64
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Debug|x86.ActiveCfg = Debug|Win32
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Debug|x86.Build.0 = Debug|Win32
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Release|x64.ActiveCfg = Release|x64
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Release|x64.Build.0 = Release|x64
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Release|x86.ActiveCfg = Release|Win32
+		{117329C2-FB14-46B1-99FC-3BFEB394A9D0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
